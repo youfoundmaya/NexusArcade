@@ -1,0 +1,16 @@
+D:\Users\ovhal\source\repos\Nexus Arcade\bin\Debug\Nexus Arcade.exe.config
+D:\Users\ovhal\source\repos\Nexus Arcade\bin\Debug\Nexus Arcade.exe
+D:\Users\ovhal\source\repos\Nexus Arcade\bin\Debug\Nexus Arcade.pdb
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus Arcade.csproj.AssemblyReference.cache
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.Battleship.resources
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.DinoRun.resources
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.Form1.resources
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.Properties.Resources.resources
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.RockPaperScissor.resources
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.SnakeGame.resources
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.TicTacToe.resources
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus Arcade.csproj.GenerateResource.cache
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus Arcade.csproj.CoreCompileInputs.cache
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus Arcade.exe
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus Arcade.pdb
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.Pong.resources
