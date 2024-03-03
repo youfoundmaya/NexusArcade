@@ -197,7 +197,6 @@ namespace Nexus_Arcade
                     index = random.Next(enemyPositionButtons.Count);
                 }
             }
-
         }
     }
 }
