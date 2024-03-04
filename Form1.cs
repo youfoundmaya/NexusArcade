@@ -52,5 +52,17 @@ namespace Nexus_Arcade
             Pong pong = new Pong();
             pong.ShowDialog();
         }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            SaveTheEggs eggs=new SaveTheEggs();
+            eggs.ShowDialog();
+        }
+
+        private void pictureBox8_Click(object sender, EventArgs e)
+        {
+            BrickOut brick = new BrickOut();
+            brick.ShowDialog();
+        }
     }
 }

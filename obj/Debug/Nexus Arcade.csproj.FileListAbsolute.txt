@@ -14,3 +14,5 @@ D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus Arcade.csproj.CoreCompi
 D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus Arcade.exe
 D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus Arcade.pdb
 D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.Pong.resources
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.SaveTheEggs.resources
+D:\Users\ovhal\source\repos\Nexus Arcade\obj\Debug\Nexus_Arcade.BrickOut.resources
