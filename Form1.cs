@@ -64,5 +64,17 @@ namespace Nexus_Arcade
             BrickOut brick = new BrickOut();
             brick.ShowDialog();
         }
+
+        private void pictureBox9_Click(object sender, EventArgs e)
+        {
+            Mario m = new Mario();
+            m.ShowDialog();
+        }
+
+        private void pictureBox10_Click(object sender, EventArgs e)
+        {
+            PacMan pm = new PacMan();
+            pm.ShowDialog();
+        }
     }
 }

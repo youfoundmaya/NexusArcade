@@ -71,6 +71,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mario.Designer.cs">
+      <DependentUpon>Mario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PacMan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PacMan.Designer.cs">
+      <DependentUpon>PacMan.cs</DependentUpon>
+    </Compile>
     <Compile Include="Pong.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -120,6 +132,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mario.resx">
+      <DependentUpon>Mario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PacMan.resx">
+      <DependentUpon>PacMan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pong.resx">
       <DependentUpon>Pong.cs</DependentUpon>
@@ -213,6 +231,51 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-closed.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-open.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\platform.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin_pac.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pink_guy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_guy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Up.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_guy.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
